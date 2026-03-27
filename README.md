@@ -2,11 +2,6 @@
 
 An end-to-end Machine Learning project that predicts Titanic passenger survival using a clean, modular Python pipeline and an interactive Streamlit web app.
 
-## 🌐 Live Demo
-
-Try the interactive Streamlit app here:
-👉 https://titanic-survival-ml-3wxtv7deysbpmvijchkd98.streamlit.app/
-
 The app allows real-time passenger input and predicts survival probability using the trained machine learning model.
 
 ---
